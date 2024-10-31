@@ -60,7 +60,7 @@ Imports: Rcpp, dplyr, janitor, tibble, ggplot2, stringr, methods,
 SystemRequirements: C++17, Rtools (>= 4.2) for Windows
 NeedsCompilation: yes
 RoxygenNote: 7.2.0
-Packaged: 2024-10-31 19:57:13 UTC; Jochen
+Packaged: 2024-10-31 20:02:22 UTC; Jochen
 Author: Jochen Staudacher [aut, cph, cre]
     (<https://orcid.org/0000-0002-0619-4606>),
   Balázs R. Sziklai [aut, cph] (<https://orcid.org/0000-0002-0068-8920>),
