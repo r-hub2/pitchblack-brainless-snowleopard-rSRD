@@ -49,9 +49,10 @@ Description: We provide an implementation for Sum of Ranking Differences (SRD),
     generated rankings. The second validation option is cross-validation that 
     checks whether the rankings generated from the solutions come from the same 
     distribution or not. For a detailed analysis about the cross-validation 
-    process see Sziklai, Baranyi and Héberger (2021) <arXiv:2105.11939>. The 
-    package offers a wide array of features related to SRD including the computation 
-    of the SRD scores, validation options, input preprocessing and plotting tools. 
+    process see Sziklai, Baranyi and Héberger (2021) 
+	<doi:10.48550/arXiv.2105.11939>. The package offers a wide array of 
+	features related to SRD including the computation of the SRD scores, 
+	validation options, input preprocessing and plotting tools. 
 License: GPL-3
 Encoding: UTF-8
 LinkingTo: Rcpp
@@ -60,7 +61,7 @@ Imports: Rcpp, dplyr, janitor, tibble, ggplot2, stringr, methods,
 SystemRequirements: C++17, Rtools (>= 4.2) for Windows
 NeedsCompilation: yes
 RoxygenNote: 7.2.0
-Packaged: 2024-10-31 20:02:22 UTC; Jochen
+Packaged: 2024-11-01 06:02:34 UTC; Jochen
 Author: Jochen Staudacher [aut, cph, cre]
     (<https://orcid.org/0000-0002-0619-4606>),
   Balázs R. Sziklai [aut, cph] (<https://orcid.org/0000-0002-0068-8920>),
